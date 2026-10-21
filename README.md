@@ -1,4 +1,3 @@
-# MatrixCadence
 # MatrixCadence 🎼🧮
 
 MatrixCadence is a platform-independent Python project bridging linear algebra and music theory. It models chord progressions as vectors inside pitch-class matrices, extracts symbolic kernels (null spaces) using SymPy, maps the result to modulo-12 pitch variations, and outputs playable auditory streams.
